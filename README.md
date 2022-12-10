@@ -1,2 +1,1 @@
-# node_typescript
-Project showcasing Node.js and TypeScript working together. 
+Project showcasing how to create an application with  Node.js and TypeScript working together. 
